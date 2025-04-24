@@ -1,0 +1,8 @@
+git init
+git add .   
+>git config --global user.name "Prakharsinghal22"  
+git config --global user.email "prakharsinghal2207@gmail.com"
+git commit -m "Prakharsinghal22"  
+git branch -M main   
+git remote add origin https://github.com/Prakharsinghal22/music-app.git
+git push -u origin main   
